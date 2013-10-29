@@ -25,3 +25,5 @@ footer p { font-size: 12px; margin: 0 }
 .nav-list li.expanded li.active a { background-color: #08C; color: white }
 
 .nav.nav-tabs { margin-bottom: 8px; }
+
+a.externalLink[href^=http] { margin-right: -6px; }
